@@ -1,0 +1,7 @@
+{
+  "name": "proyectomoviles",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
